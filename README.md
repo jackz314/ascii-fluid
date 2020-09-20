@@ -1,16 +1,5 @@
-Source: http://www.ioccc.org/2012/endoh1
+Source: http://www.ioccc.org/2012/endoh1/hint.html
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-  <meta name="GENERATOR" content="mkd2html 2.1.5a DL=DISCOUNT">
-  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
-  <link rel="stylesheet"
-        type="text/css"
-        href="../hint.css">
-  <title>Most complex ASCII fluid - Honorable mention</title>
-</head>
-<body>
 <h1>Most complex ASCII fluid - Honorable mention</h1>
 
 <p>Yusuke Endoh<br>
